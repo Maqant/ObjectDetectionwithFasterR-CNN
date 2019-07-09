@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new1</folder>
+	<filename>a103.jpg</filename>
+	<path>C:\Users\TheGodFather\Desktop\new1\a103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>241</ymin>
+			<xmax>275</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

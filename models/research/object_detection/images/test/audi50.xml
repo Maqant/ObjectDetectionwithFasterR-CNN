@@ -1,0 +1,26 @@
+<annotation>
+	<folder>audi</folder>
+	<filename>audi50.jpg</filename>
+	<path>C:\Users\TheGodFather\Desktop\audi\audi50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>audi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>200</ymin>
+			<xmax>285</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

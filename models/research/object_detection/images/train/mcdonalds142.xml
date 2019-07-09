@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mcdonalds</folder>
+	<filename>mcdonalds142.jpg</filename>
+	<path>C:\Users\yvzyl\Desktop\mcdonalds\mcdonalds142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>702</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mcdonalds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>271</ymin>
+			<xmax>518</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

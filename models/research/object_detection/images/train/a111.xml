@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike</folder>
+	<filename>a111.jpg</filename>
+	<path>C:\Users\Derya\Desktop\nike\a111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>445</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>230</ymin>
+			<xmax>388</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
